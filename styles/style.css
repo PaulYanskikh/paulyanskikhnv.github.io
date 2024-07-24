@@ -1,0 +1,107 @@
+body{
+    font-family: 'Manrope'
+}
+
+.container {
+    width: 1150px;
+    margin: 0 auto;
+
+}
+
+h1{
+    font-size: 60px;
+    line-height: 60px;
+    font-weight: 400;
+    letter-spacing: -3%;
+    color: #121212;
+}
+
+h2{
+    font-size: 45px;
+    line-height: 61.47px;
+    font-weight: 400;
+    letter-spacing: -3%;
+    color: #121212;
+}
+
+h3{
+    font-size: 30px;
+    line-height: 40.98px;
+    font-weight: 400;
+    letter-spacing: -3%;
+    color: #121212;
+}
+
+h4{
+    font-size: 18px;
+    line-height: 24.59px;
+    font-weight: 400;
+    letter-spacing: -3%;
+    color: #121212;
+}
+
+p{
+    font-size: 20px;
+    line-height: 27.32px;
+    font-weight: 400;
+    letter-spacing: -3%;
+    color: #121212;
+    
+}
+
+.chair_1 {
+    width: 1150px;
+    height: 500px;
+    background-image: url(../resources/chair_1.png);
+    margin-top: 30px;
+    margin-bottom: 150px;
+    border-radius: 5px;
+}
+
+.chair_1_text p {
+    width: 440px;
+    height: 81px;
+    padding-left: 40px;
+    padding-top: 379px;
+    color: aliceblue;
+}
+
+.slogan {
+    width: 1000px;
+    padding-top: 128px;
+}
+
+
+.tag {
+    padding-bottom: 30px;
+}
+
+.about_studio {
+    padding-bottom: 30px;
+    width: 1048px;
+}
+
+.btn {
+    display: block;
+    width: 255px;
+    height: 67px;
+    text-align: center;
+    border-radius: 5px;
+    color: #ffffff;
+    background-color: #AD1818;
+    text-decoration: none;
+
+}
+
+.btn p {
+    color: #ffffff;
+    line-height: 67px;
+}
+
+a :hover {
+    background-color: #ffffff;
+    color: #AD1818;
+    border-radius: 5px;
+    border: 1px solid #AD1818;
+}
+
